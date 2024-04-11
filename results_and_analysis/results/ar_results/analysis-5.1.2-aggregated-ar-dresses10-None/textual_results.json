@@ -1,0 +1,23 @@
+{
+    "Number of Training Responses": 603,
+    "Number of Test Responses": 597,
+    "Percentage of Users Not Completing Test Phase": 0.009950248756218905,
+    "All Training Data Mean Redisplay Check Hit Rate": 0.8006700167504187,
+    "All Test Data Mean Redisplay Check Hit Rate": 0.7269681742043551,
+    "All Training Data Mean Arbitrary Check Hit Rate": NaN,
+    "All Test Data Mean Arbitrary Check Hit Rate": NaN,
+    "Individual All Redisplay Check Pass Rate": 0.9011725293132329,
+    "Individual All Arbitrary Check Pass Rate": 1.0,
+    "Individual All of Both Checks Pass Rate": 0.9011725293132329,
+    "Good Test Accuracy": 0.7949748743718593,
+    "Batch Name": "5.1.2-aggregated-ar-dresses10_2.0_Jan_12_2023",
+    "All Training Data Correlation": 0.7819582488158494,
+    "All Fixed Test Data Correlation": 0.350205495968654,
+    "All Good Test Data Correlation": 0.0339560922542436,
+    "All Training Data RMSE": 0.28886792055523897,
+    "All Fixed Test Data RMSE": 0.39362027195989757,
+    "All Good Test Data RMSE": 0.3641859608142685,
+    "Good Test Ratings-style Accuracy": 0.8123953098827471,
+    "Fixed Test MPC-style Accuracy": NaN,
+    "Good Test MPC-style Accuracy": NaN
+}

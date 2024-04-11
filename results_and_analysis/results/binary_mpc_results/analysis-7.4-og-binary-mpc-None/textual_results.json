@@ -1,0 +1,23 @@
+{
+    "Number of Training Responses": 150,
+    "Number of Test Responses": 150,
+    "Percentage of Users Not Completing Test Phase": 0.0,
+    "All Training Data Mean Redisplay Check Hit Rate": 0.9066666666666666,
+    "All Test Data Mean Redisplay Check Hit Rate": 0.9,
+    "All Training Data Mean Arbitrary Check Hit Rate": NaN,
+    "All Test Data Mean Arbitrary Check Hit Rate": NaN,
+    "Individual All Redisplay Check Pass Rate": 0.82,
+    "Individual All Arbitrary Check Pass Rate": 1.0,
+    "Individual All of Both Checks Pass Rate": 0.82,
+    "Good Test Accuracy": 0.8506666666666667,
+    "Batch Name": "7.4-og-binary-mpc_2.0_Jul_28_2023",
+    "All Training Data Correlation": 0.9668681842621819,
+    "All Fixed Test Data Correlation": 0.2654673069962492,
+    "All Good Test Data Correlation": -0.03051643394182151,
+    "All Training Data RMSE": 0.10017028937856919,
+    "All Fixed Test Data RMSE": 0.48663487006162354,
+    "All Good Test Data RMSE": 0.5015799312674517,
+    "Good Test Ratings-style Accuracy": 0.8506666666666666,
+    "Fixed Test MPC-style Accuracy": 0.6079999999999999,
+    "Good Test MPC-style Accuracy": 0.8506666666666666
+}

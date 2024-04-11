@@ -1,0 +1,6 @@
+boto3
+pandas
+numpy
+matplotlib
+scipy
+tqdm

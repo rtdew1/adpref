@@ -1,0 +1,20 @@
+{
+    "All Training Data Mean Redisplay Check Hit Rate": 0.7914438502673797,
+    "All Test Data Mean Redisplay Check Hit Rate": 0.732620320855615,
+    "All Training Data Mean Arbitrary Check Hit Rate": NaN,
+    "All Test Data Mean Arbitrary Check Hit Rate": NaN,
+    "Individual All Redisplay Check Pass Rate": 0.9037433155080213,
+    "Individual All Arbitrary Check Pass Rate": 0.21256684491978609,
+    "Individual All of Both Checks Pass Rate": 0.20320855614973263,
+    "Good Test Accuracy": 0.698663101604278,
+    "Batch Name": "redone_41_knn1_redone_41_knn1_Jan_12_1970",
+    "All Training Data Correlation": 0.9996504458761101,
+    "All Fixed Test Data Correlation": 0.1699151482698079,
+    "All Good Test Data Correlation": 0.018511346747866562,
+    "All Training Data RMSE": 4.2429418515350505e-05,
+    "All Fixed Test Data RMSE": 0.5519674327424865,
+    "All Good Test Data RMSE": 0.6304741242518032,
+    "Good Test Ratings-style Accuracy": 0.6499999999999999,
+    "Fixed Test MPC-style Accuracy": NaN,
+    "Good Test MPC-style Accuracy": NaN
+}

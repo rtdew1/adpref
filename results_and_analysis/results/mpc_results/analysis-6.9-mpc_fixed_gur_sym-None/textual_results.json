@@ -1,0 +1,23 @@
+{
+    "Number of Training Responses": 148,
+    "Number of Test Responses": 146,
+    "Percentage of Users Not Completing Test Phase": 0.013513513513513514,
+    "All Training Data Mean Redisplay Check Hit Rate": 0.7191780821917808,
+    "All Test Data Mean Redisplay Check Hit Rate": 0.6506849315068494,
+    "All Training Data Mean Arbitrary Check Hit Rate": NaN,
+    "All Test Data Mean Arbitrary Check Hit Rate": NaN,
+    "Individual All Redisplay Check Pass Rate": 0.8561643835616438,
+    "Individual All Arbitrary Check Pass Rate": 1.0,
+    "Individual All of Both Checks Pass Rate": 0.8561643835616438,
+    "Good Test Accuracy": 0.7753424657534247,
+    "Batch Name": "6.9-mpc_fixed_gur_sym_symgur1.0_Sep_13_2023",
+    "All Training Data Correlation": 0.6320210094833706,
+    "All Fixed Test Data Correlation": 0.30581468840140047,
+    "All Good Test Data Correlation": 0.055408608942230264,
+    "All Training Data RMSE": 0.4458097735791764,
+    "All Fixed Test Data RMSE": 0.624086517395521,
+    "All Good Test Data RMSE": 0.7754399675387593,
+    "Good Test Ratings-style Accuracy": 0.7904109589041096,
+    "Fixed Test MPC-style Accuracy": 0.704109589041096,
+    "Good Test MPC-style Accuracy": 0.8684931506849315
+}

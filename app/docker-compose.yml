@@ -1,0 +1,16 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - '5555:5000'
+    environment:
+      UWSGI_PY_AUTORELOAD: 1
+      APP_DEBUG: 1
+      UWSGI_WORKERS: 2
+      UWSGI_OFFLOAD_THREADS: 1
+      UWSGI_PROCESSES: 1
+      ADAPTIVE_PREFERENCE_ENV: 'dev-docker'
+    volumes:
+      - ./backend:/usr/src
+      - ./output_data:/output_data
+      - ./user_data:/user_data

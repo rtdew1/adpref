@@ -1,0 +1,20 @@
+{
+    "All Training Data Mean Redisplay Check Hit Rate": 0.7414965986394558,
+    "All Test Data Mean Redisplay Check Hit Rate": 0.673469387755102,
+    "All Training Data Mean Arbitrary Check Hit Rate": NaN,
+    "All Test Data Mean Arbitrary Check Hit Rate": NaN,
+    "Individual All Redisplay Check Pass Rate": 0.8639455782312925,
+    "Individual All Arbitrary Check Pass Rate": 1.0,
+    "Individual All of Both Checks Pass Rate": 0.8639455782312925,
+    "Good Test Accuracy": 0.8149659863945579,
+    "Batch Name": "5.8-gur_w_old_priors_gur-ar-2.0_Jan_12_1970",
+    "All Training Data Correlation": 0.6333350057143428,
+    "All Fixed Test Data Correlation": 0.21443355474198517,
+    "All Good Test Data Correlation": -0.00947938765137551,
+    "All Training Data RMSE": 0.2744527250544717,
+    "All Fixed Test Data RMSE": 0.38258299889163894,
+    "All Good Test Data RMSE": 0.3580911989505078,
+    "Good Test Ratings-style Accuracy": 0.7102040816326529,
+    "Fixed Test MPC-style Accuracy": NaN,
+    "Good Test MPC-style Accuracy": NaN
+}

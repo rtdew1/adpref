@@ -1,0 +1,23 @@
+{
+    "Number of Training Responses": 149,
+    "Number of Test Responses": 148,
+    "Percentage of Users Not Completing Test Phase": 0.006711409395973154,
+    "All Training Data Mean Redisplay Check Hit Rate": 0.6959459459459459,
+    "All Test Data Mean Redisplay Check Hit Rate": 0.7094594594594594,
+    "All Training Data Mean Arbitrary Check Hit Rate": NaN,
+    "All Test Data Mean Arbitrary Check Hit Rate": NaN,
+    "Individual All Redisplay Check Pass Rate": 0.8175675675675675,
+    "Individual All Arbitrary Check Pass Rate": 1.0,
+    "Individual All of Both Checks Pass Rate": 0.8175675675675675,
+    "Good Test Accuracy": 0.8148648648648649,
+    "Batch Name": "6.8-mpc_fixed_og_new_priors_2.0_Sep_12_2023",
+    "All Training Data Correlation": 0.9620474487946653,
+    "All Fixed Test Data Correlation": 0.32469550218126614,
+    "All Good Test Data Correlation": 0.026287530018670985,
+    "All Training Data RMSE": 0.11607006707629343,
+    "All Fixed Test Data RMSE": 0.6166745155676802,
+    "All Good Test Data RMSE": 0.711935044147951,
+    "Good Test Ratings-style Accuracy": 0.854054054054054,
+    "Fixed Test MPC-style Accuracy": 0.710135135135135,
+    "Good Test MPC-style Accuracy": 0.8972972972972973
+}

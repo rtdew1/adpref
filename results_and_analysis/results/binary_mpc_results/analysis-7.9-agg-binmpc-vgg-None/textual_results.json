@@ -1,0 +1,23 @@
+{
+    "Number of Training Responses": 150,
+    "Number of Test Responses": 150,
+    "Percentage of Users Not Completing Test Phase": 0.0,
+    "All Training Data Mean Redisplay Check Hit Rate": 0.84,
+    "All Test Data Mean Redisplay Check Hit Rate": 0.8933333333333333,
+    "All Training Data Mean Arbitrary Check Hit Rate": NaN,
+    "All Test Data Mean Arbitrary Check Hit Rate": NaN,
+    "Individual All Redisplay Check Pass Rate": 0.76,
+    "Individual All Arbitrary Check Pass Rate": 1.0,
+    "Individual All of Both Checks Pass Rate": 0.76,
+    "Good Test Accuracy": 0.824,
+    "Batch Name": "7.9-agg-binmpc-vgg_2.0_Oct_18_2023",
+    "All Training Data Correlation": 0.9515409069648958,
+    "All Fixed Test Data Correlation": 0.2527753852139256,
+    "All Good Test Data Correlation": 0.1846105993855721,
+    "All Training Data RMSE": 0.34942874165819965,
+    "All Fixed Test Data RMSE": 0.4792396313982351,
+    "All Good Test Data RMSE": 0.31149269239925187,
+    "Good Test Ratings-style Accuracy": 0.824,
+    "Fixed Test MPC-style Accuracy": 0.6106666666666666,
+    "Good Test MPC-style Accuracy": 0.824
+}

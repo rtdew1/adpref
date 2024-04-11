@@ -1,0 +1,20 @@
+{
+    "Number of Training Responses": 149,
+    "Number of Test Responses": 148,
+    "Percentage of Users Not Completing Test Phase": 0.006711409395973154,
+    "All Training Data Mean Redisplay Check Hit Rate": 0.8513513513513513,
+    "All Test Data Mean Redisplay Check Hit Rate": 0.8986486486486487,
+    "All Training Data Mean Arbitrary Check Hit Rate": NaN,
+    "All Test Data Mean Arbitrary Check Hit Rate": NaN,
+    "Individual All Redisplay Check Pass Rate": 0.7837837837837838,
+    "Individual All Arbitrary Check Pass Rate": 1.0,
+    "Individual All of Both Checks Pass Rate": 0.7837837837837838,
+    "Good Test Accuracy": 0.8729729729729729,
+    "All Training Data Correlation": 0.9065347384663135,
+    "All Fixed Test Data Correlation": 0.31170880572870796,
+    "All Good Test Data Correlation": 0.16112473642197667,
+    "All Training Data RMSE": 0.22777702528625557,
+    "All Fixed Test Data RMSE": 0.48460719576616434,
+    "All Good Test Data RMSE": 0.49080488380148285,
+    "Batch Name": "6.6-og-binary-mpc-dresses10-40ratings_2.0_Jul_ 5_2023"
+}

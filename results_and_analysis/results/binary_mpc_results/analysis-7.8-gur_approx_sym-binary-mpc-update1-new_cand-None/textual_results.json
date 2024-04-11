@@ -1,0 +1,23 @@
+{
+    "Number of Training Responses": 151,
+    "Number of Test Responses": 151,
+    "Percentage of Users Not Completing Test Phase": 0.0,
+    "All Training Data Mean Redisplay Check Hit Rate": 0.9337748344370861,
+    "All Test Data Mean Redisplay Check Hit Rate": 0.9006622516556292,
+    "All Training Data Mean Arbitrary Check Hit Rate": NaN,
+    "All Test Data Mean Arbitrary Check Hit Rate": NaN,
+    "Individual All Redisplay Check Pass Rate": 0.8543046357615894,
+    "Individual All Arbitrary Check Pass Rate": 1.0,
+    "Individual All of Both Checks Pass Rate": 0.8543046357615894,
+    "Good Test Accuracy": 0.8874172185430463,
+    "Batch Name": "7.8-gur_approx_sym-binary-mpc-update1-new_cand_symgur1.0_Sep_ 8_2023",
+    "All Training Data Correlation": 0.598624761375263,
+    "All Fixed Test Data Correlation": 0.3173068173537279,
+    "All Good Test Data Correlation": -0.006398818678058753,
+    "All Training Data RMSE": 0.36320010161864824,
+    "All Fixed Test Data RMSE": 0.4766511362446694,
+    "All Good Test Data RMSE": 0.5191597066330647,
+    "Good Test Ratings-style Accuracy": 0.8874172185430463,
+    "Fixed Test MPC-style Accuracy": 0.6225165562913907,
+    "Good Test MPC-style Accuracy": 0.8874172185430463
+}

@@ -1,0 +1,23 @@
+{
+    "Number of Training Responses": 620,
+    "Number of Test Responses": 620,
+    "Percentage of Users Not Completing Test Phase": 0.0,
+    "All Training Data Mean Redisplay Check Hit Rate": 0.785483870967742,
+    "All Test Data Mean Redisplay Check Hit Rate": 0.7370967741935484,
+    "All Training Data Mean Arbitrary Check Hit Rate": NaN,
+    "All Test Data Mean Arbitrary Check Hit Rate": NaN,
+    "Individual All Redisplay Check Pass Rate": 0.9,
+    "Individual All Arbitrary Check Pass Rate": 1.0,
+    "Individual All of Both Checks Pass Rate": 0.9,
+    "Good Test Accuracy": 0.79,
+    "Batch Name": "5.0-og-ar-dresses10_2.0_Dec_ 7_2022",
+    "All Training Data Correlation": 0.9600952279092222,
+    "All Fixed Test Data Correlation": 0.34300916095001505,
+    "All Good Test Data Correlation": 0.050856369440425056,
+    "All Training Data RMSE": 0.10924202050559718,
+    "All Fixed Test Data RMSE": 0.4171625057256996,
+    "All Good Test Data RMSE": 0.45721384015722966,
+    "Good Test Ratings-style Accuracy": 0.7980645161290322,
+    "Fixed Test MPC-style Accuracy": NaN,
+    "Good Test MPC-style Accuracy": NaN
+}

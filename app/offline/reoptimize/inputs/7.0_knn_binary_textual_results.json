@@ -1,0 +1,20 @@
+{
+    "Number of Training Responses": 149,
+    "Number of Test Responses": 148,
+    "Percentage of Users Not Completing Test Phase": 0.006711409395973154,
+    "All Training Data Mean Redisplay Check Hit Rate": 0.8378378378378378,
+    "All Test Data Mean Redisplay Check Hit Rate": 0.8513513513513513,
+    "All Training Data Mean Arbitrary Check Hit Rate": NaN,
+    "All Test Data Mean Arbitrary Check Hit Rate": NaN,
+    "Individual All Redisplay Check Pass Rate": 0.7364864864864865,
+    "Individual All Arbitrary Check Pass Rate": 1.0,
+    "Individual All of Both Checks Pass Rate": 0.7364864864864865,
+    "Good Test Accuracy": 0.577027027027027,
+    "All Training Data Correlation": 1.0,
+    "All Fixed Test Data Correlation": 0.0715393140435712,
+    "All Good Test Data Correlation": 0.025501988914561863,
+    "All Training Data RMSE": 0.0,
+    "All Fixed Test Data RMSE": 0.6808182676114922,
+    "All Good Test Data RMSE": 0.6503637235985514,
+    "Batch Name": "7.0-knn1-binary-mpc_1.2_Jul_14_2023"
+}

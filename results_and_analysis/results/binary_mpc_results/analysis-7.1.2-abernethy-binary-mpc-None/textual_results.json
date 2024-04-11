@@ -1,0 +1,23 @@
+{
+    "Number of Training Responses": 149,
+    "Number of Test Responses": 148,
+    "Percentage of Users Not Completing Test Phase": 0.006711409395973154,
+    "All Training Data Mean Redisplay Check Hit Rate": 0.8378378378378378,
+    "All Test Data Mean Redisplay Check Hit Rate": 0.8513513513513513,
+    "All Training Data Mean Arbitrary Check Hit Rate": NaN,
+    "All Test Data Mean Arbitrary Check Hit Rate": NaN,
+    "Individual All Redisplay Check Pass Rate": 0.7432432432432432,
+    "Individual All Arbitrary Check Pass Rate": 1.0,
+    "Individual All of Both Checks Pass Rate": 0.7432432432432432,
+    "Good Test Accuracy": 0.7,
+    "Batch Name": "7.1.2-abernethy-binary-mpc_1.2_Oct_ 6_2023",
+    "All Training Data Correlation": 0.6314868142356848,
+    "All Fixed Test Data Correlation": 0.11965000500727901,
+    "All Good Test Data Correlation": 0.12704534879191245,
+    "All Training Data RMSE": 0.3765484026401843,
+    "All Fixed Test Data RMSE": 0.7964186087304835,
+    "All Good Test Data RMSE": 2.428560706699688,
+    "Good Test Ratings-style Accuracy": 0.7,
+    "Fixed Test MPC-style Accuracy": 0.55,
+    "Good Test MPC-style Accuracy": 0.7
+}

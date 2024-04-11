@@ -1,0 +1,121 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #282c34;
+}
+
+.App-start {
+  background-color:#d3d3d3;
+	border-radius: 4px;
+	border: 1px solid #d3d3d3;
+	display: inline-block;
+	cursor: pointer;
+  color:#282c34;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 5px 10px 5px 10px;
+}
+
+.App-photo {
+  height: 50vh;
+  width: auto;
+}
+
+.App-button {
+	background-color: white;
+	border-radius: 4px;
+	border: 1px solid white;
+	display: inline-block;
+	cursor: pointer;
+	color:#282c34;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.mpc-submit-button{
+	background-color: white;
+	border-radius: 4px;
+	border: 1px solid white;
+	display: inline-block;
+	cursor: pointer;
+	color:#282c34;
+  font-weight: bold;
+  margin-left: 10px;
+  font-size: large;
+}
+
+.App-version {
+  color: white;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.img-left {
+  height: 50vh;
+  width: auto;
+  float: left;
+}
+
+.img-right {
+  height: 50vh;
+  width: auto;
+  float: right
+}
+
+.img-container{
+  height: 50vh;
+  width: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.likert {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 10pt;
+}
+
+.likert th {
+  border: 1px solid black;
+  padding: 5px;
+  font-style: normal;
+  font-size: large;
+}
+
+.likert td {
+  border: 1px solid black;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.likert input[type='radio'] {
+  /* transform: scale(2); */
+  float: left;
+  margin: 0 auto;
+  margin-top: 5pt;
+  margin-bottom: 5pt;
+  height: 15pt;
+  width: 100%;
+}
+
+.home-page-text {
+  width: 900px;
+}
+
+
+img[src=""] {
+   display: none;
+}
