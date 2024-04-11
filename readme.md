@@ -1,5 +1,5 @@
-Code to accompany: Adaptive Preference Measurement with Unstructured Data
-Ryan Dew
+# Code to accompany: Adaptive Preference Measurement with Unstructured Data
+## By Ryan Dew
 
 This directory is broken into two subdirectories: 
 
